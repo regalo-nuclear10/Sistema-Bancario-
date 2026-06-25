@@ -63,3 +63,4 @@ while True:
 		case _:
 			print('Opção inválida.Tente de novo.')
  
+ 
